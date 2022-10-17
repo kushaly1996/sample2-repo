@@ -1,0 +1,4 @@
+echo "this is besant" >> test1.txt
+uptime
+df -h
+free
